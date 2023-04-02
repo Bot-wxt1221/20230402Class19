@@ -8,5 +8,22 @@
         <source>MainWindow</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="mainwindow.ui" line="27"/>
+        <location filename="mainwindow.ui" line="40"/>
+        <location filename="mainwindow.ui" line="53"/>
+        <source>Start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.ui" line="66"/>
+        <source>大转盘</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.ui" line="82"/>
+        <source>by wxt</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>
