@@ -38,7 +38,7 @@ MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
 {
-    std::ifstream inn("/home/wxt/data.csv");
+    std::ifstream inn("data.csv");
     for(int i=1;i<=51;i++){
         int aa;
         inn>>aa;
